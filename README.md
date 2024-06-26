@@ -5,5 +5,6 @@
 3. pip install -r requirements.txt
 4. streamlit run app.py
 
-app.py - собственно решение
+app.py - собственно решение 
+
 requirements - файл с необходимыми библиотеками
