@@ -4,3 +4,6 @@
 2. venv\Scripts\activate - для Windows ИЛИ source venv/bin/activate - для Макбука
 3. pip install -r requirements.txt
 4. streamlit run app.py
+
+app.py - собственно решение
+requirements - файл с необходимыми библиотеками
